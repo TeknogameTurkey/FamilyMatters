@@ -3,7 +3,9 @@
   "files": [
     {
       "path": "KoGa3.ttf",
-      "url": "https://raw.githubusercontent.com/TeknogameTurkey/FamilyMatters/main/game/KoGa3.ttf"
+      "url": "https://raw.githubusercontent.com/TeknogameTurkey/FamilyMatters/main/game/KoGa3.ttf",
+      "hash": "5267218852f631928716a8005d7bf4b492aaf83d",
+      "size": 756072
     },
     {
       "path": "KoGa3MenuBack.png",
