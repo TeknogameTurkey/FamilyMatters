@@ -1,5 +1,12 @@
 {
   "version": "1.0.0",
   "gameFolder": "game",
-  "files": []
+  "files": [
+    {
+      "path": "dosya_yolu",
+      "url": "game/dosya_yolu",
+      "hash": "sha256_hash",
+      "size": dosya_boyutu
+    }
+  ]
 }
